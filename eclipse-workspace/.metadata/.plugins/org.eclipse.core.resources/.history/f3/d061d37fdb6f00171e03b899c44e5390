@@ -1,0 +1,5 @@
+package com.spring.henallux.dataAccess.dao;
+
+public class MagicKeyDAO {
+
+}
